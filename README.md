@@ -36,4 +36,8 @@ Superstore Presentation (TripleTen)
 		Use the worksheets you already created and create new worksheets you might need to support your Story Arc
 		Construct Dashboards to create presentation style slides
 
+https://public.tableau.com/views/PresentationProject_17474281100720/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+
+20.05.2025_17.01.42_REC
+
 		3. Deliver your presentation
